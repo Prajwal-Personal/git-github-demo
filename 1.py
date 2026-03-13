@@ -1,6 +1,4 @@
-# hi hello
+# Hello
 """
-This is a multi-line comment
-This is the second line of the multi-line comment
+Hi
 """
-# hello
